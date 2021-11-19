@@ -15,5 +15,5 @@ Download the zip file, extract and run extend-rollback.exe
 
 # Rollback using the tool
 
-To rollback using the tool, run rollback-now.exe. It will rollback your computer to Windows 10. It will not ask to wait, check for updates, and other things. It will just rollback. This will restart your computer. Make sure it is pluged. This should not affect your files, but, if you can, make a backup.
+To rollback using the tool, run rollback-now.exe. It will rollback your computer to Windows 10. It will not ask to wait, check for updates, and other things. It will just rollback. This will restart your computer. Make sure it is plugged. This should not affect your files, but, if you can, make a backup.
 

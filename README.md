@@ -11,7 +11,7 @@ Do not run a disk cleanup during this time. It will delete Windows.old and you w
 
 # How to run it
 
-Download the zip file, extract and run extend-rollback.exe
+Download the zip file, extract and run rollback-extender.exe
 
 # Rollback using the tool
 
